@@ -1,1 +1,1 @@
-# linear-regression-with-python
+# linear-regression-with-python, no sklearn applied.
